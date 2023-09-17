@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 Desenvolvedor Front-end
+- 💻 Desenvolvedor Front-end com Foco em React
 - 🔭 Atualmente estou trabalhando em um Projeto Social ajudando pessoas e novos empreendimentos a ter um web site.
 - 📚 Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript
