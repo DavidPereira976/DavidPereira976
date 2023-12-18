@@ -27,7 +27,13 @@ Here are some ideas to get you started:
     <a href="mailto:davidpereira2002rj@gmail.com?" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://discord.gg/undefined" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://discord.gg/undefined" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://wa.me/5521988733175" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
+    </a>
+  
 </div>
 
 # 💻 Tecnologias:
