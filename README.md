@@ -42,8 +42,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React.Js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
+<!--
 # 📊 Estatísticas:
 ![](https://github-readme-stats.vercel.app/api?username=DavidPereira976&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DavidPereira976&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPereira976&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ---
+-->
