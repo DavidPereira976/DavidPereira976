@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 Desenvolvedor Front-end com Foco em React.JS e Next.Js
-- 🔭 Atualmente estou estudando mais sobre Next.js e JavaScript
+- 🔭 Atualmente estou estudando mais sobre Next.js
 - 📚 Análise e Desenvolvimento de Sistemas
 
   <h1> 😉 Fale comigo </h1>
