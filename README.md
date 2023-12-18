@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estou trabalhando em um Projeto social
+- 🔭 Atualmente estou estudando Next.Js e JavaScript
 
-- 🌱 Estudando JavaScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
